@@ -1,6 +1,0 @@
-/Users/maria/data_with_particle/beam_200us_MCR_0_Run1_2021_04_10_12_59_30_Slot_0.daq
-/Users/maria/data_with_particle/beam_200us_MCR_0_Run1_2021_04_10_12_59_30_Slot_1.daq
-/Users/maria/data_with_particle/beam_200us_MCR_0_Run1_2021_04_10_12_59_30_Slot_2.daq
-/Users/maria/data_with_particle/beam_200us_MCR_0_Run1_2021_04_10_12_59_30_Slot_3.daq
-/Users/maria/data_with_particle/beam_200us_MCR_0_Run1_2021_04_10_12_59_30_Slot_4.daq
-/Users/maria/data_with_particle/beam_200us_MCR_0_Run1_2021_04_10_12_59_30_Slot_5.daq
